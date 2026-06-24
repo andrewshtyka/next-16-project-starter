@@ -34,32 +34,32 @@ next-16-project-starter/
 │   ├── videos/
 │   └── fonts/
 │
-├── src/
-│   └── app/                    # Layouts and pages
-│       ├── favicon.ico
-│       ├── page.jsx
-│       └── layout.jsx
-│
-├── components/
-│   ├── _TemplateComponent/     # Template for a component (copy and rename)
-│   ├── icons/                  # Icon components
-│   ├── layout/                 # Layout components & Page sections
-│   └── ui/                     # Reusable UI components
-│
-├── components/                 # Constant values (util, animation, etc)
-│
-├── data/                       # Local data (if data is not fetched)
-│
-├── hooks/                      # Custom React hooks
-│
-├── lib/                        # Third-party integrations
-│
-├── providers/                  # Context and providers
-│
-├── components/
-│   ├── tokens/                 # CSS variables (colors, spacings, font-related)
-│   ├── global.css              # Global styles
-│   └── reset.css               # Reset default styles
-│
-└── utils/                      # Helper functions
+└── src/
+    ├── app/                    # Layouts and pages
+    │   ├── favicon.ico
+    │   ├── page.jsx
+    │   └── layout.jsx
+    │
+    ├── components/
+    │   ├── _TemplateComponent/     # Template for a component (copy and rename)
+    │   ├── icons/                  # Icon components
+    │   ├── layout/                 # Layout components & Page sections
+    │   └── ui/                     # Reusable UI components
+    │
+    ├── components/                 # Constant values (util, animation, etc)
+    │
+    ├── data/                       # Local data (if data is not fetched)
+    │
+    ├── hooks/                      # Custom React hooks
+    │
+    ├── lib/                        # Third-party integrations
+    │
+    ├── providers/                  # Context and providers
+    │
+    ├── components/
+    │   ├── tokens/                 # CSS variables (colors, spacings, font-related)
+    │   ├── global.css              # Global styles
+    │   └── reset.css               # Reset default styles
+    │
+    └── utils/                      # Helper functions
 ```
