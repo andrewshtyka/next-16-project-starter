@@ -66,4 +66,6 @@ next-16-project-starter/
 
 <br/>
 
-### Delete `.gitkeep` when your folder is not empty anymore
+### `.gitkeep`
+
+Delete `.gitkeep` from folder that is not empty anymore
