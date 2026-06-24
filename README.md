@@ -46,7 +46,7 @@ next-16-project-starter/
     │   ├── layout/                 # Layout components & Page sections
     │   └── ui/                     # Reusable UI components
     │
-    ├── components/                 # Constant values (util, animation, etc)
+    ├── constants/                  # Constant values (util, animation, etc)
     │
     ├── data/                       # Local data (if data is not fetched)
     │
