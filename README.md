@@ -29,13 +29,13 @@ npm run dev
 ```
 next-16-project-starter/
 │
-├── public/                     # Assets available from browser
+├── public/                         # Assets available from browser
 │   ├── images/
 │   ├── videos/
 │   └── fonts/
 │
 └── src/
-    ├── app/                    # Layouts and pages
+    ├── app/                        # Layouts and pages
     │   ├── favicon.ico
     │   ├── page.jsx
     │   └── layout.jsx
