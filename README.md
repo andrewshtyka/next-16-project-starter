@@ -63,3 +63,7 @@ next-16-project-starter/
     │
     └── utils/                      # Helper functions
 ```
+
+<br/>
+
+### Delete `.gitkeep` when your folder is not empty anymore
