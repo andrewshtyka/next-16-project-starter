@@ -50,6 +50,8 @@ next-16-project-starter/
     │
     ├── data/                       # Local data (if data is not fetched)
     │
+    ├── fonts/                      # Local fonts
+    │
     ├── hooks/                      # Custom React hooks
     │
     ├── lib/                        # Third-party integrations
