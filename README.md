@@ -19,7 +19,7 @@ npm run dev
 ### Used libraries:
 
 - [Motion](https://motion.dev/docs/react) (for animation)
-- [Radix Primitives](https://www.radix-ui.com/primitives/docs/overview/getting-started) (accessible UI components w/o styling)
+- [Radix Primitives](https://www.radix-ui.com/primitives/docs/overview/getting-started) (accessible UI components without styling)
 - [React remove scroll](https://www.npmjs.com/package/react-remove-scroll) (for modals, mobile menu)
 
 <br/>
